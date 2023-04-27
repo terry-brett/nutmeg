@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<user_activity>
+  <received message_id="43_39_1580916690">
+    <from>43</from>
+    <time>1580916690</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type/>
+  </received>
+  <received message_id="43_39_1580917033">
+    <from>43</from>
+    <time>1580917033</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="43_39_1580917047">
+    <from>43</from>
+    <time>1580917047</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+</user_activity>

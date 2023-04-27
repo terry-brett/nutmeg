@@ -1,0 +1,400 @@
+html, body {
+	height:90%;
+}
+.inner {
+	margin: auto;
+	border: 1px solid #78909C;
+	margin-top: 10px;
+	padding: 20px;
+	width: 90%;
+}
+#container {
+	width: 100%;
+	height: 100%;
+}
+#left {
+	margin-left: 0px;
+	float: left;
+	width: 31%;
+	height: 100%;
+}
+#right {
+	float: right;
+	width: 31%;
+	height: 100%;
+}
+#middle {
+	margin: 0 auto;
+	width: 40%;
+	height: 100%;
+}
+svg {
+	display: inline-block;
+	vertical-align: middle;
+}
+.profile-info {
+	font-size: 15px;
+	margin-left: 20%;	
+	vertical-align: middle;
+	display: inline-block;
+	padding: 2px;
+}
+#profile-text{
+	margin-top: -25%;
+	margin-left: 18%;
+}
+#top-left, #gifts{
+	padding:1em;
+	border: 1px solid #78909C;
+}
+#top_right, #middle_right{
+	padding:1em;
+	border: 1px solid #78909C;
+}
+#middle_right{
+	height: 80px;
+}
+#send_items_left{
+	float: left; 
+	width: 65px; 
+	height: 10px; 
+	margin-top: 50px; 
+	position: absolute;
+}
+#send_item_image{
+	position: relative; 
+	top: 18px; 
+	float: right;
+}
+#antivirus{
+	padding:1em;
+	border: 1px solid #78909C;
+}
+.left-description, .right-description, .center-description {
+	background-color: #37474F;
+	border: 1px solid #78909C;
+	width: 100%;
+}
+.left-description{
+	border-left: 1px solid #37474F;
+}
+.right-description{
+	border-right: 1px solid #37474F;
+}
+.collapsible{
+	display: none;
+}
+#notification-blank{
+	display: none;
+}
+.top-background{
+	background-color: #37474F;
+	border-bottom: 1px solid #78909C;
+	position: fixed;
+    top: 20px;
+	left: 0;
+	width: 100%;
+	height: 41px;
+	z-index: -1;
+}
+.gift-table{
+	display: none;
+}
+
+/* Navigation bar iPhone style toggle*/
+#toggle{
+	width: 90%;
+	background-color: #607D8B;
+	padding: 10px;
+	border: 1px solid #78909C;
+	margin-left: 30px;
+}
+
+#left-span{
+	margin-left: 45%;
+}
+#running-score{
+	margin-left: 45%;
+	width: 51%;
+}
+
+.btn {
+    display: block;
+    width: 55px;
+    height: 15px;
+    background: #607D8B;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.btn:hover{
+	opacity: 0.7;
+	filter: alpha(opacity=70); /* For IE8 and earlier */
+}
+
+a, a:hover, a:active, a:visited { color: white; }
+.column {
+    float: left;
+}
+
+.text-container {
+  position: relative;
+  font-family: Arial;
+  margin-top: 50px;
+}
+
+.text-block {
+  position: absolute;
+  top: 5px;
+  left: 30px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Clear floats after the columns */
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 1660px){
+	.inner-right{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.send-item-right{
+		width: 60%;
+		margin-left: 20%;
+	}
+	.inner-left{
+		margin-left: 16%;
+		width: 63% !important;
+	}
+	#running-score{
+		margin-left: 16% !important;
+		width: 71% !important;
+	}
+}
+
+@media screen and (max-width: 1366px){
+	.inner-right{
+		width: 80%;
+		margin-left: 8%;
+	}
+	.send-item-right{
+		width: 80%;
+		margin-left: 8%;
+	}
+	.inner-left{
+		margin-left: 5%;
+		width: 80%;
+	}
+	#running-score{
+		margin-left: 5% !important;
+		width: 68% !important;
+	}
+}
+
+@media screen and (max-width: 1100px){
+	#timeline-container{
+		width: 95%;
+	}
+	.inner {
+		width: 89%;
+	}
+	#running-score{
+		margin-left: 5% !important;
+		width: 69% !important;
+	}
+}
+
+@media screen and (max-width:945px) {       
+/* styles for mobile browsers smaller than 480px; (iPhone) */	
+.top-bar{
+	background-color: #37474F;
+	position: fixed;
+    top: 0;
+	left: 0;
+	width: 100%;
+	height: 40px;
+}
+.top-background{
+	display: none;
+}
+.inner {
+	margin: auto;
+	border: 1px solid #78909C;
+	margin-top: 10px;
+	padding: 20px;
+	width: 80%;
+}
+.collapsible{
+	display: block;
+	margin-top: 20px;
+}
+.left-description, .right-description, .center-description {
+	display: none;
+}
+.inner-left{
+	margin-left: 140px !important;
+	width: 80%;
+}
+.inner-right {
+	margin-left: 6%;
+	width: 80%;
+	margin-bottom: 50px !important;
+}
+.send-item-right {
+	margin-left:6%;
+	width: 80%;
+}
+
+.collapsible {
+	background-color: #607D8B !important;
+	color: white !important;
+	cursor: pointer !important;
+	padding: 18px !important;
+	width: 100% !important;
+	border: none !important;
+	text-align: left !important;
+	outline: none !important;
+	font-size: 15px !important;
+	margin-top: 40px !important;
+}
+.content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.active, .collapsible:hover {
+	background-color: #555  !important;
+}
+
+.collapsible:after {
+	content: '\002B';
+	color: white;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+}
+
+.active:after {
+	content: "\2212";
+}
+
+.active, .collapsible:hover {
+	background-color: #555;
+}
+#left{
+	width: 100%;
+}
+#right{
+	width: 100%;
+}
+#middle{
+	width: 100%;
+}
+#timeline-container{
+	width: 100%;
+}
+#top-left{
+	height: 110px;
+	width: 61% !important;
+}
+#profile-text{
+	margin-top: -70px;
+}
+#remaining-items{
+	position: relative !important;
+	margin-left: -150px !important;
+}
+.notification {
+	position: absolute;
+	display: block;
+	width: 25px;
+	height: 32px;
+	color: white;
+	margin-top: 3px;
+	right: 26px;
+}
+#notification-blank{
+	display: block;
+}
+#send_items_left{
+	position: relative;
+	margin-left: -150px;
+}
+#send_item_image{
+	position: relative;
+	float: right;
+	margin-right: 30px;
+}
+#running-score{
+	margin-left: 140px !important;
+	width: 65.2% !important;
+}
+#toggle{
+	width: 88%;
+}
+.icon-container{
+	display: none;
+}
+.gift-table{
+	display: table;
+	width: 100%;
+}
+}
+@media screen and (max-width:790px) {   
+#running-score{
+	margin-left: 140px !important;
+	width: 65.2% !important;
+}
+#antivirus{
+	width: 60.2% !important;
+}
+.navigation-container{
+	width: 100%;
+}
+}
+@media screen and (max-width:635px) {   
+.inner-left{
+	margin-left: 120px !important;
+}
+#running-score{
+	margin-left: 120px !important;
+	width: 65.2% !important;
+}
+#antivirus{
+	width: 60.2% !important;
+}
+.navigation-container{
+	width: 100%;
+}
+#toggle{
+	margin-left: 5.5%;
+	width: 85%;
+}
+}
+@media screen and (max-width:520px) {
+.inner-left{
+	margin-left: 90px !important;
+}
+#running-score{
+	margin-left: 90px !important;
+	width: 68.2% !important;
+}
+.navigation-container{
+	width: 100%;
+}
+#antivirus{
+	width: 61.2% !important;
+}
+#message_icon{
+	margin-right: 10px;
+}
+}

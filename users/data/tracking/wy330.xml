@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<user_activity>
+  <received message_id="42_31_1580916697">
+    <from>42</from>
+    <time>1580916697</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type/>
+  </received>
+  <received message_id="42_31_1580916943">
+    <from>42</from>
+    <time>1580916943</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="42_31_1580916948">
+    <from>42</from>
+    <time>1580916948</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_31_1580916958">
+    <from>42</from>
+    <time>1580916958</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_31_1580916969">
+    <from>42</from>
+    <time>1580916969</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="42_31_1580917050">
+    <from>42</from>
+    <time>1580917050</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="42_31_1580917074">
+    <from>42</from>
+    <time>1580917074</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="42_31_1580917087">
+    <from>42</from>
+    <time>1580917087</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+</user_activity>

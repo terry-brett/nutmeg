@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<user_activity>
+  <received message_id="42_27_1580916647">
+    <from>42</from>
+    <time>1580916647</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type/>
+  </received>
+  <received message_id="44_27_1580916647">
+    <from>44</from>
+    <time>1580916647</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="42_27_1580916685">
+    <from>42</from>
+    <time>1580916685</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916695">
+    <from>44</from>
+    <time>1580916695</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916703">
+    <from>44</from>
+    <time>1580916703</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916712">
+    <from>44</from>
+    <time>1580916712</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916717">
+    <from>44</from>
+    <time>1580916717</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916728">
+    <from>44</from>
+    <time>1580916728</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916737">
+    <from>44</from>
+    <time>1580916737</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916742">
+    <from>44</from>
+    <time>1580916742</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916748">
+    <from>44</from>
+    <time>1580916748</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580916748">
+    <from>42</from>
+    <time>1580916748</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916760">
+    <from>44</from>
+    <time>1580916760</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916766">
+    <from>44</from>
+    <time>1580916766</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916772">
+    <from>44</from>
+    <time>1580916772</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916782">
+    <from>44</from>
+    <time>1580916782</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916785">
+    <from>44</from>
+    <time>1580916785</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="42_27_1580916786">
+    <from>42</from>
+    <time>1580916786</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916793">
+    <from>44</from>
+    <time>1580916793</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916803">
+    <from>44</from>
+    <time>1580916803</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916816">
+    <from>44</from>
+    <time>1580916816</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916914">
+    <from>44</from>
+    <time>1580916914</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916921">
+    <from>44</from>
+    <time>1580916921</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916927">
+    <from>44</from>
+    <time>1580916927</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580916933">
+    <from>42</from>
+    <time>1580916933</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916934">
+    <from>44</from>
+    <time>1580916934</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916943">
+    <from>44</from>
+    <time>1580916943</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580916945">
+    <from>42</from>
+    <time>1580916945</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916951">
+    <from>44</from>
+    <time>1580916951</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580916953">
+    <from>42</from>
+    <time>1580916953</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916962">
+    <from>44</from>
+    <time>1580916962</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580916964">
+    <from>42</from>
+    <time>1580916964</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580916971">
+    <from>44</from>
+    <time>1580916971</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580916977">
+    <from>44</from>
+    <time>1580916977</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916991">
+    <from>44</from>
+    <time>1580916991</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580916999">
+    <from>44</from>
+    <time>1580916999</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580917006">
+    <from>44</from>
+    <time>1580917006</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580917012">
+    <from>44</from>
+    <time>1580917012</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917020">
+    <from>44</from>
+    <time>1580917020</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917031">
+    <from>44</from>
+    <time>1580917031</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580917033">
+    <from>42</from>
+    <time>1580917033</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580917042">
+    <from>44</from>
+    <time>1580917042</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580917046">
+    <from>44</from>
+    <time>1580917046</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917051">
+    <from>44</from>
+    <time>1580917051</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="42_27_1580917053">
+    <from>42</from>
+    <time>1580917053</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917057">
+    <from>44</from>
+    <time>1580917057</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="42_27_1580917061">
+    <from>42</from>
+    <time>1580917061</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917067">
+    <from>44</from>
+    <time>1580917067</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="44_27_1580917073">
+    <from>44</from>
+    <time>1580917073</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917077">
+    <from>44</from>
+    <time>1580917077</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580917080">
+    <from>42</from>
+    <time>1580917080</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </received>
+  <received message_id="44_27_1580917082">
+    <from>44</from>
+    <time>1580917082</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+  <received message_id="42_27_1580917084">
+    <from>42</from>
+    <time>1580917084</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <received message_id="44_27_1580917089">
+    <from>44</from>
+    <time>1580917089</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </received>
+</user_activity>

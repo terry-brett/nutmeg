@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<user_activity>
+  <received message_id="41_32_1580909154">
+    <from>41</from>
+    <time>1580909154</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type/>
+  </received>
+  <sent message_id="32_41_1580909173">
+    <to>41</to>
+    <time>1580909173</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909175">
+    <to>41</to>
+    <time>1580909175</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </sent>
+  <sent message_id="32_41_1580909179">
+    <to>41</to>
+    <time>1580909179</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_2_1580909184">
+    <to>2</to>
+    <time>1580909184</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_29_1580909194">
+    <to>29</to>
+    <time>1580909194</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909198">
+    <to>41</to>
+    <time>1580909198</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </sent>
+  <received message_id="41_32_1580909201">
+    <from>41</from>
+    <time>1580909201</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </received>
+  <sent message_id="32_41_1580909461">
+    <to>41</to>
+    <time>1580909461</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580909463">
+    <to>41</to>
+    <time>1580909463</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909469">
+    <to>41</to>
+    <time>1580909469</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580909472">
+    <to>41</to>
+    <time>1580909472</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909474">
+    <to>41</to>
+    <time>1580909474</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909496">
+    <to>41</to>
+    <time>1580909496</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580909589">
+    <to>41</to>
+    <time>1580909589</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580909591">
+    <to>41</to>
+    <time>1580909591</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <didnt_sent message_id="32_2_1580911730">
+    <to>2</to>
+    <time>1580911730</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>link</file_type>
+  </didnt_sent>
+  <sent message_id="32_41_1580911732">
+    <to>41</to>
+    <time>1580911732</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580911734">
+    <to>41</to>
+    <time>1580911734</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>link</file_type>
+  </sent>
+  <sent message_id="32_41_1580911736">
+    <to>41</to>
+    <time>1580911736</time>
+    <user_infected>1</user_infected>
+    <message_infected>1</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580911784">
+    <to>41</to>
+    <time>1580911784</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>images</file_type>
+  </sent>
+  <sent message_id="32_41_1580911803">
+    <to>41</to>
+    <time>1580911803</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>videos</file_type>
+  </sent>
+  <sent message_id="32_41_1580911806">
+    <to>41</to>
+    <time>1580911806</time>
+    <user_infected>0</user_infected>
+    <message_infected>0</message_infected>
+    <file_type>link</file_type>
+  </sent>
+</user_activity>

@@ -1,0 +1,15 @@
+<round_info>
+		<level></level>
+		<start_time>1580916909</start_time>
+		<setup>
+			<graph></graph>
+			<constants>
+			<score_constants>
+	<virus_penalty>0.2</virus_penalty>
+	<virus_free_bonus>0.5</virus_free_bonus>
+	<target_met_bonus>0.3</target_met_bonus>
+	<closest_to_target_bonus>0.3</closest_to_target_bonus>
+</score_constants>
+			</constants>
+		</setup>
+	</round_info>
