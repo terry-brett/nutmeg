@@ -7,7 +7,7 @@ $username = $_POST["username"];
 $password = $_POST["password"];
 $secret_key_txt = $_POST["secret_key"];
 
-$validate_key_value_num = "terry";
+$validate_key_value_num = "my_secret_key";
 
 if ($secret_key_txt != $validate_key_value_num) {
         echo '<script>alert("Invalid key!"); window.location = \'index.php\';</script>';
