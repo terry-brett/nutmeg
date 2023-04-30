@@ -1,0 +1,5 @@
+mysql-connector
+networkx
+numpy
+matplotlib
+phpserialize

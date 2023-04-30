@@ -1,4 +1,6 @@
-CREATE TABLE `user_db`.`user` 
+CREATE DATABASE user_db;
+
+CREATE TABLE `user_db`.`user`
 (`user_id` INT NOT NULL AUTO_INCREMENT , 
 `username` TEXT NOT NULL , 
 `password` TEXT NOT NULL , 
@@ -8,11 +10,11 @@ CREATE TABLE `user_db`.`user`
 `seed` BOOLEAN NOT NULL DEFAULT FALSE , 
 PRIMARY KEY (`user_id`));
 
-CREATE TABLE `user_db`.`friends` 
-(`friend_id` INT NOT NULL AUTO_INCREMENT , 
-`user_id` INT NOT NULL , 
-`list_of_friends` TEXT NOT NULL , 
-`blocked_list` TEXT NOT NULL , 
+CREATE TABLE `user_db`.`friends`
+(`friend_id` INT NOT NULL AUTO_INCREMENT ,
+`user_id` INT NOT NULL ,
+`list_of_friends` VARCHAR(1000) NOT NULL DEFAULT '' ,
+`blocked_list` VARCHAR(1000) NOT NULL DEFAULT '' ,
 PRIMARY KEY (`friend_id`));
 
 CREATE TABLE `user_db`.`winner` 

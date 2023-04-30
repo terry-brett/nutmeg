@@ -88,8 +88,8 @@ def create_groups(group, g, num_sel):
 
 mydb = con.connect(
     host="localhost",
-    user="pmauser",
-    passwd="ywUaEcSI",
+    user="root",
+    passwd="mysql",
     database="user_db"
 )
 

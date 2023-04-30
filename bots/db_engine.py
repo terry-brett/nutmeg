@@ -3,8 +3,8 @@ import mysql.connector as con
 class queries:
     mydb = con.connect(
         host = "localhost",
-        user = "pmauser",
-        passwd = "ywUaEcSI",
+        user = "root",
+        passwd = "mysql",
         database = "user_db"
     )
     mydb.autocommit = True
